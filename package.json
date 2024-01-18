@@ -1,7 +1,7 @@
 {
 	"name": "nodejs-postgresql",
 	"version": "1.0.0",
-	"description": "",
+	"description": "CRUD queries using Node.js and PostgreSQL",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

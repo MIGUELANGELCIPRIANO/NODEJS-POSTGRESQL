@@ -1,6 +1,6 @@
 # NODEJS-POSTGRESQL
 
-<img width="50%" src="https://i.postimg.cc/c4gKzT1g/NODEJS-POSTGRESQL.jpg" />
+<img width="50%" src="https://i.postimg.cc/HWXKY0Gv/NODEJS-POSTGRESQL.png" />
 
 ## INTRODUCTION
 
